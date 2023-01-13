@@ -25,7 +25,6 @@ function showTime(){
   document.getElementById("MyClockDisplay").innerText = time;
   document.getElementById("MyClockDisplay").textContent = time;
   
-  console.log(time);
   setTimeout(showTime, 1000);
   
 }
