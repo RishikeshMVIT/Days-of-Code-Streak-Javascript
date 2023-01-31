@@ -4,6 +4,7 @@
 20 javascript programs made over 20 days for HTML5 Game dev 2022-23
 
 Welcome to the 20 Days of Code challenge! This repository is made as part of HTML5 Game Development in Winter Semester 2022-23 @ VIT Bhopal
+Although most of the work here is derivative and borderline plagiarism, I was able to learn a lot about javascript and web design during this challenge and I hope that you can too.
 
 [Link to Github pages where you can view the webpages](https://rishikeshmvit.github.io/Days-of-Code-Streak-Javascript/)
 
