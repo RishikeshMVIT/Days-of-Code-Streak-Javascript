@@ -25,6 +25,7 @@ Description:
 
 **Solution: To create a digital clock as a part of a website we must create a function which updates every second, we can use the inbuilt setinterval() for this, and update the clcok text whenever there is a change in the system time**
 
+---
 ## Day 3: Problem 3
 [Link to Solution](./Day3-Quotes/day3.html)
 
@@ -38,55 +39,136 @@ Description:
 
 Description:
 
-**Problem: To create a  **
+**A basic calculator**
 
-**Solution:**
-## Day 2: Problem 2
-[Link to Solution](#)
-
-Description:
-
-**Problem:**
-
-**Solution:**
-## Day 2: Problem 2
-[Link to Solution](#)
+---
+## Day 5: Problem 5
+[Link to Solution](./Day5-Hangman/day5.html)
 
 Description:
 
-**Problem:**
+**Basic Implemntation of the hangman game**
 
-**Solution:**
-## Day 2: Problem 2
-[Link to Solution](#)
-
-Description:
-
-**Problem:**
-
-**Solution:**
-## Day 2: Problem 2
-[Link to Solution](#)
+---
+## Day 6: Problem 6
+[Link to Solution](./Day6-TicTacToe/day6.html)
 
 Description:
 
-**Problem:**
+**Basic implentation of the TicTacToe game**
 
-**Solution:**
-## Day 2: Problem 2
-[Link to Solution](#)
+---
+## Day 7: Problem 7
+[Link to Solution](./Day7-Stopwatch/Day7.html)
 
 Description:
 
-**Problem:**
+**Basic Stopwatch**
 
-**Solution:**,
+---
+## Day 8: Problem 8
+[Link to Solution](./Day8-RGB/Day8.html)
 
+Description:
+
+**A RGB color guessing game**
+
+---
+## Day 9: Problem 9
+[Link to Solution](./Day9-Pong/Day9.html)
+
+Description:
+
+**A basic implementation of Pong (v. difficult)**
+
+---
+## Day 10: Problem 10
+[Link to Solution](./Day10-BackgroundSwitcher/Day10.html)
+
+Description:
+
+**Bachground Switching**
+
+---
+## Day 11: Problem 11
+[Link to Solution](./Day11-FluidSim/Day11.html)
+
+Description:
+
+**A Basic fluid Sim made using Canvas elements**
+
+---
+
+## Day 12: Problem 12
+[Link to Solution](./Day12-MusicPlayer/Day12.html)
+
+Description:
+
+**A basic implementation of a music player**
+
+---
+## Day 13: Problem 13
+[Link to Solution](./Day13-Tilegame/Day13.html)
+
+Description:
+
+**A basic implementation of the memory card game**
+
+---
+## Day 14: Problem 14
+[Link to Solution](./Day14-Drums/Day14.html)
+
+Description:
+
+**An interactive drum kit which plays sounds with onclick events**
+
+---
+## Day 15: Problem 15
+[Link to Solution](./Day15-InteractiveWave/Day15.html)
+
+Description:
+
+**An interactive footer element made by creating and manipulating SVG elements on mouse motion**
+
+---
+## Day 16: Problem 16
+[Link to Solution](./Day16-textEffects/Day16.html)
+
+Description:
+
+**A color changing text effect**
+
+---
+## Day 17: Problem 17
+[Link to Solution](./Day17-SlidingHeader/Day17.html)
+
+Description:
+
+**A sliding header made by using a mask over two elements at the same position which moves according to the mouse position**
+
+---
+## Day 18: Problem 18
+[Link to Solution](./Day18-CursorTrail/Day18.html)
+
+Description:
+
+**A cursor trail to increase interactivity with the webpage**
+
+---
+## Day 19: Problem 19
+[Link to Solution](./Day19-Bricks/Day19.html)
+
+Description:
+
+**Random Spawning of brick elements to create a playful environment**
+
+---
 ## Day 20: Problem 20
-[Link to Solution](#)
+[Link to Solution](./Day20-MatrixRain/Day20.html)
 
 Description:
 
-**Problem:**
+**An Implementation of the famous matrix rain effect from the movie the Matric**
 
-**Solution:**
+---
+
