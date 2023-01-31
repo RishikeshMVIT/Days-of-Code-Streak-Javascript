@@ -5,6 +5,8 @@
 
 Welcome to the 20 Days of Code challenge! This repository is made as part of HTML5 Game Development in Winter Semester 2022-23 @ VIT Bhopal
 
+[Link to Github pages where you can view the webpages](https://rishikeshmvit.github.io/Days-of-Code-Streak-Javascript/)
+
 ## Day 1: Problem 1
 [Link to Solution](./Day1-Palindrome/day1.html)
 
